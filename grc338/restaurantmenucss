@@ -4,7 +4,7 @@
 
 body {
 	background-color: (248,248,248) ; /* Not totally white. */
-	color: _______;  /* Not totally black. */
+	color: (200, 200, 200);  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: _______;
 }
