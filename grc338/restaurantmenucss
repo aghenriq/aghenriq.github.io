@@ -3,7 +3,7 @@
 /* Replace this whole line 3 with my version of Eric Meyer’s reset tool.*/
 
 body {
-	background-color: _______; /* Not totally white. */
+	background-color: (248,248,248) ; /* Not totally white. */
 	color: _______;  /* Not totally black. */
 	line-height: 140%; 	/* A little extra leading. */
 	font-family: _______;
